@@ -3,4 +3,10 @@ RTS Questions
 
 #3  If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
 
-I recently wrote a report on Go and one thing I would like to add to Python is a feature built directly into Go. Go was built with programming productivity in mind in the wake of multicore processors. It has goroutines, which allow concurrency on lightweight threads that are multiplexed into a single thread when needed, this allows Go to outperform Python in most cases on programs that require a lot of computation. This type of concurrency also allows for multiple processes to be placed onto a single stack which further speeds up processing time. Adding this type of light weight memory usage to Python would be a large improvement towards the future of multicore processing. 
+I recently wrote a report on Go and one thing I would like to add to Python is a feature built directly into Go.
+Go was built with programming productivity in mind in the wake of multicore processors. It has goroutines, 
+which allow concurrency on lightweight threads that are multiplexed into a single thread when needed, this allows
+Go to outperform Python in most cases on programs that require a lot of computation. This type of concurrency
+also allows for multiple processes to be placed onto a single stack which further speeds up processing time.
+Adding this type of light weight memory usage to Python would be a large improvement towards the future of 
+multicore processing. 
